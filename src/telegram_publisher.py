@@ -17,14 +17,17 @@ TELEGRAM_API = "https://api.telegram.org"
 
 def _build_caption(repo: dict, summary: dict) -> str:
     """构建 Telegram 消息文本（HTML 格式）。"""
-    hashtags = " ".join(summary["hashtags"])
+    hashtags = "  ".join(summary["hashtags"])
+    stars = "⭐" * min(5, repo["stars"] // 1000 + 1)  # 根据 star 数显示星级
 
     caption = (
-        f"<b>{summary['title']}</b>\n\n"
-        f"{hashtags}\n\n"
-        f"{summary['summary']}\n\n"
-        f"\U0001f517 <a href=\"{repo['html_url']}\">项目直达链接</a>\n\n"
-        f"<i>\U0001f916 总结模型: DeepSeek | ✔️ 一十八</i>"
+        f"\U0001f525 <b>{summary['title']}</b>\n\n"
+        f"\U0001f3f7 {hashtags}\n\n"
+        f"<blockquote>\U0001f4dd {summary['summary']}</blockquote>\n\n"
+        f"\U0001f4ca Stars: {repo['stars']:,}  {stars}\n"
+        f"\U0001f4c1 语言: {repo['language']}\n\n"
+        f"\U0001f517 <a href=\"{repo['html_url']}\">直达项目 →</a>\n\n"
+        f"<blockquote>\U0001f916 总结模型：DeepSeek ｜ ✍️ 一十八</blockquote>"
     )
     return caption
 
