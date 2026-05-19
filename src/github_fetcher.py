@@ -23,8 +23,11 @@ def _date_n_days_ago(n: int) -> str:
     return dt.strftime("%Y-%m-%d")
 
 
-def fetch_trending_repos() -> list[dict]:
+def fetch_trending_repos(exclude: set[str] | None = None) -> list[dict]:
     """抓取 GitHub 上近期最热门的开源仓库，返回 Top N。
+
+    Args:
+        exclude: 需要排除的仓库全名集合，如 {"owner/repo1", ...}。
 
     Returns:
         list[dict]: 每个仓库包含:
@@ -36,12 +39,15 @@ def fetch_trending_repos() -> list[dict]:
             - topics: 主题标签列表
             - created_at: 创建时间
     """
+    exclude = exclude or set()
     since = _date_n_days_ago(CREATED_DAYS)
+    # 多抓一些以应对部分仓库被过滤
+    fetch_count = TOP_N + len(exclude) + 3
     params = {
         "q": f"created:>={since} stars:>={MIN_STARS}",
         "sort": "stars",
         "order": "desc",
-        "per_page": TOP_N,
+        "per_page": min(fetch_count, 30),
     }
     headers = {"Accept": "application/vnd.github+json"}
 
@@ -52,8 +58,12 @@ def fetch_trending_repos() -> list[dict]:
 
     repos = []
     for item in data.get("items", []):
+        full_name = item["full_name"]
+        if full_name in exclude:
+            logger.info("跳过已推送: %s", full_name)
+            continue
         repos.append({
-            "full_name": item["full_name"],
+            "full_name": full_name,
             "description": item.get("description") or "",
             "html_url": item["html_url"],
             "stars": item["stargazers_count"],
@@ -61,6 +71,8 @@ def fetch_trending_repos() -> list[dict]:
             "topics": item.get("topics", []),
             "created_at": item["created_at"],
         })
+        if len(repos) >= TOP_N:
+            break
 
-    logger.info("获取到 %d 个热门仓库", len(repos))
+    logger.info("获取到 %d 个新仓库（跳过 %d 个）", len(repos), len(exclude))
     return repos

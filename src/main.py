@@ -13,7 +13,7 @@ import sys
 
 from dotenv import load_dotenv
 
-from . import github_fetcher, deepseek_summarizer, unsplash_fetcher, telegram_publisher
+from . import github_fetcher, deepseek_summarizer, unsplash_fetcher, telegram_publisher, history
 
 logging.basicConfig(
     level=logging.INFO,
@@ -27,9 +27,15 @@ def main() -> int:
     """运行一次完整的每日推荐流程。返回退出码。"""
     logger.info("===== GitHub 每日开源项目精选 开始 =====")
 
+    # 0. 加载推送历史，排除 7 天内已推送的仓库
+    sent_repos = history.load_sent_repos()
+    exclude = set(sent_repos.keys())
+    if exclude:
+        logger.info("已加载 %d 条历史记录，将跳过已推送仓库", len(exclude))
+
     # 1. 抓取热门仓库
     try:
-        repos = github_fetcher.fetch_trending_repos()
+        repos = github_fetcher.fetch_trending_repos(exclude=exclude)
     except Exception as e:
         logger.error("抓取 GitHub 仓库失败: %s", e)
         return 1
@@ -66,13 +72,17 @@ def main() -> int:
 
     # 4. 发布到 Telegram
     try:
-        success = telegram_publisher.publish_daily(results)
+        sent_names = telegram_publisher.publish_daily(results)
     except Exception as e:
         logger.error("Telegram 发布失败: %s", e)
         return 1
 
-    logger.info("===== 完成: 成功发布 %d/%d 条 =====", success, len(results))
-    return 0 if success > 0 else 1
+    # 5. 记录已成功推送的仓库
+    if sent_names:
+        history.mark_as_sent(sent_names)
+
+    logger.info("===== 完成: 成功发布 %d/%d 条 =====", len(sent_names), len(results))
+    return 0 if len(sent_names) > 0 else 1
 
 
 if __name__ == "__main__":

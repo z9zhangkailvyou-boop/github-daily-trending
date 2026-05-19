@@ -90,20 +90,19 @@ def publish_to_channel(repo: dict, summary: dict, photo_url: str | None) -> bool
         return False
 
 
-def publish_daily(repos_with_summaries: list[tuple[dict, dict, str | None]]) -> int:
+def publish_daily(repos_with_summaries: list[tuple[dict, dict, str | None]]) -> list[str]:
     """发布每日汇总到频道。
 
     Args:
         repos_with_summaries: [(repo, summary, photo_url), ...] 列表。
 
     Returns:
-        int: 成功发布的数量。
+        list[str]: 成功发布的仓库全名列表。
     """
-    success_count = 0
+    success_names = []
     for repo, summary, photo_url in repos_with_summaries:
         if publish_to_channel(repo, summary, photo_url):
-            success_count += 1
-            # 避免触发 Telegram 速率限制，每条消息间隔 2 秒
+            success_names.append(repo["full_name"])
             time.sleep(2)
-    logger.info("发布完成: 成功 %d/%d 条", success_count, len(repos_with_summaries))
-    return success_count
+    logger.info("发布完成: 成功 %d/%d 条", len(success_names), len(repos_with_summaries))
+    return success_names
