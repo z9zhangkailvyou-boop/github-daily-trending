@@ -32,10 +32,10 @@ jobs:
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
         run: python -m src.main
 
-      - name: 提交推送历史
+           - name: 提交推送历史
         if: success()
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Add this
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           if [ ! -f data/sent_repos.json ]; then
             echo "无推送记录，跳过"
@@ -48,5 +48,5 @@ jobs:
             echo "历史文件无变化，跳过提交"
           else
             git commit -m "更新推送历史记录"
-            git push
+            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:${{ github.ref_name }}
           fi
