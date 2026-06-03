@@ -1,9 +1,4 @@
 {
-  "joeseesun/wechat-radar": "2026-05-26",
-  "bonus-2026/casino-bonus": "2026-05-26",
-  "yui540/comimi": "2026-05-26",
-  "modaic-ai/gepa-viz": "2026-05-26",
-  "bryanyzhu/agentic-ai-system-course": "2026-05-26",
   "Outcome-Signal-Forge/trading-bot": "2026-05-27",
   "tantara/openbrief": "2026-05-27",
   "SigmaTradeLabs/aster-bot": "2026-05-27",
@@ -38,5 +33,10 @@
   "anomalyco/rift": "2026-06-02",
   "polymaxi2/polymarket-arbitrage-trading-bot": "2026-06-02",
   "qiuqiubuchongle-cloud/chokepoint-atlas": "2026-06-02",
-  "MatixYo/ESP32-Plane-Radar": "2026-06-02"
+  "MatixYo/ESP32-Plane-Radar": "2026-06-02",
+  "b-nnett/goose": "2026-06-03",
+  "ClaudioDrews/memory-os": "2026-06-03",
+  "tiantianGPU/reg-factory": "2026-06-03",
+  "VAST-AI-Research/TripoSplat": "2026-06-03",
+  "johnbean393/KeyType": "2026-06-03"
 }
