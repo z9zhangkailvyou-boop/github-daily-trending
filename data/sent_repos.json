@@ -1,9 +1,4 @@
 {
-  "Outcome-Signal-Forge/trading-bot": "2026-05-27",
-  "tantara/openbrief": "2026-05-27",
-  "SigmaTradeLabs/aster-bot": "2026-05-27",
-  "Novaquant-labs/hyperliquid-trading-bot": "2026-05-27",
-  "brulagi731069/Warzone-2026-DMA-Version": "2026-05-27",
   "UditAkhourii/adhd": "2026-05-28",
   "op7418/guizang-social-card-skill": "2026-05-28",
   "FlashML-org/flashlib": "2026-05-28",
@@ -38,5 +33,10 @@
   "ClaudioDrews/memory-os": "2026-06-03",
   "tiantianGPU/reg-factory": "2026-06-03",
   "VAST-AI-Research/TripoSplat": "2026-06-03",
-  "johnbean393/KeyType": "2026-06-03"
+  "johnbean393/KeyType": "2026-06-03",
+  "cpaczek/skylight": "2026-06-04",
+  "SenhorH/tab-labeler": "2026-06-04",
+  "jd-opensource/JoyAI-Echo": "2026-06-04",
+  "S-Sigdel/vimhjkl": "2026-06-04",
+  "ni5arga/deanonymizer": "2026-06-04"
 }
