@@ -1,9 +1,4 @@
 {
-  "pewdiepie-archdaemon/odysseus": "2026-06-01",
-  "liyue-aigc/female-portrait-director": "2026-06-01",
-  "Allanlv5324F/Lossless-Scaling-Github": "2026-06-01",
-  "jdevalk/specification.website": "2026-06-01",
-  "rasoir0591/Crosshair-X": "2026-06-01",
   "asz798838958/aBaiAutoplus": "2026-06-02",
   "anomalyco/rift": "2026-06-02",
   "polymaxi2/polymarket-arbitrage-trading-bot": "2026-06-02",
@@ -32,5 +27,10 @@
   "JimLiu/baoyu-design": "2026-06-08",
   "amElnagdy/guard-skills": "2026-06-08",
   "NoopApp/noop": "2026-06-08",
-  "Parcle-AI/parcle-memory": "2026-06-08"
+  "Parcle-AI/parcle-memory": "2026-06-08",
+  "GordenSun/GordenSuperPPTSkills": "2026-06-09",
+  "vorpus/performativeUI": "2026-06-09",
+  "IvanSobolev/Neo3dEngine": "2026-06-09",
+  "JFGAtlas/aethergate-pro": "2026-06-09",
+  "beijingcao/binance-deribit-btc": "2026-06-09"
 }
