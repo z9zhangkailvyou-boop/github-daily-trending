@@ -1,9 +1,4 @@
 {
-  "b-nnett/goose": "2026-06-03",
-  "ClaudioDrews/memory-os": "2026-06-03",
-  "tiantianGPU/reg-factory": "2026-06-03",
-  "VAST-AI-Research/TripoSplat": "2026-06-03",
-  "johnbean393/KeyType": "2026-06-03",
   "cpaczek/skylight": "2026-06-04",
   "SenhorH/tab-labeler": "2026-06-04",
   "jd-opensource/JoyAI-Echo": "2026-06-04",
@@ -32,5 +27,10 @@
   "xiaohuailabs/xiaohu-video-translate": "2026-06-10",
   "Tencent-Hunyuan/UniRL": "2026-06-10",
   "MSNightmare/RoguePlanet": "2026-06-10",
-  "jmmy9609-design/gpt-pp": "2026-06-10"
+  "jmmy9609-design/gpt-pp": "2026-06-10",
+  "XiaomiMiMo/MiMo-Code": "2026-06-11",
+  "shadcn/improve": "2026-06-11",
+  "secret-tools/secret-tool": "2026-06-11",
+  "NuvioMedia/NuvioDesktop": "2026-06-11",
+  "valkor-ai/loom": "2026-06-11"
 }
