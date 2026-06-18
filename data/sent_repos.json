@@ -1,9 +1,4 @@
 {
-  "apple/coreai-models": "2026-06-10",
-  "xiaohuailabs/xiaohu-video-translate": "2026-06-10",
-  "Tencent-Hunyuan/UniRL": "2026-06-10",
-  "MSNightmare/RoguePlanet": "2026-06-10",
-  "jmmy9609-design/gpt-pp": "2026-06-10",
   "XiaomiMiMo/MiMo-Code": "2026-06-11",
   "shadcn/improve": "2026-06-11",
   "secret-tools/secret-tool": "2026-06-11",
@@ -38,5 +33,10 @@
   "gykim80/perfectpixel-studio": "2026-06-17",
   "dongshuyan/compass-skills": "2026-06-17",
   "Jeidoban/Ironsmith": "2026-06-17",
-  "baskduf/FableCodex": "2026-06-17"
+  "baskduf/FableCodex": "2026-06-17",
+  "vercel/eve": "2026-06-18",
+  "Plaer1/junction": "2026-06-18",
+  "rebel0789/codexpro": "2026-06-18",
+  "Dk9902/ExitLag-Now": "2026-06-18",
+  "fendouai/best-humanizer-handbook": "2026-06-18"
 }
