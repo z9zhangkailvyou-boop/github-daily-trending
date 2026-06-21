@@ -1,9 +1,4 @@
 {
-  "DietrichGebert/ponytail": "2026-06-13",
-  "levy-street/world-of-claudecraft": "2026-06-13",
-  "coder/boo": "2026-06-13",
-  "lenucksi/aur-malware-check": "2026-06-13",
-  "inbrainfun/inbrain": "2026-06-13",
   "omnigent-ai/omnigent": "2026-06-14",
   "orange2ai/renwei-writing": "2026-06-14",
   "DanMcInerney/architect-loop": "2026-06-14",
@@ -38,5 +33,10 @@
   "MstKail/wc2026-crypto-sportsbook": "2026-06-20",
   "rpanigrahi222/intruth-factcheck": "2026-06-20",
   "aresyn/codex-control-plane-mcp": "2026-06-20",
-  "world-action-models/awesome-world-action-models": "2026-06-20"
+  "world-action-models/awesome-world-action-models": "2026-06-20",
+  "Forsy-AI/agent-apprenticeship": "2026-06-21",
+  "zhongerxin/cowart": "2026-06-21",
+  "aidenybai/cnfast": "2026-06-21",
+  "cloudflare/security-audit-skill": "2026-06-21",
+  "overflowy/make-look-scanned": "2026-06-21"
 }
