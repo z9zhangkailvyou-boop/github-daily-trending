@@ -1,9 +1,4 @@
 {
-  "omnigent-ai/omnigent": "2026-06-14",
-  "orange2ai/renwei-writing": "2026-06-14",
-  "DanMcInerney/architect-loop": "2026-06-14",
-  "eli-labz/Third-Eye": "2026-06-14",
-  "MiniMax-AI/MSA": "2026-06-14",
   "tamnd/kage": "2026-06-15",
   "EEliberto/IPA-Download": "2026-06-15",
   "nolangz/pixel2motion": "2026-06-15",
@@ -38,5 +33,10 @@
   "zhongerxin/cowart": "2026-06-21",
   "aidenybai/cnfast": "2026-06-21",
   "cloudflare/security-audit-skill": "2026-06-21",
-  "overflowy/make-look-scanned": "2026-06-21"
+  "overflowy/make-look-scanned": "2026-06-21",
+  "lyra81604/zhengxi-views": "2026-06-22",
+  "eooce/transfer-api": "2026-06-22",
+  "clent267/FUNCAPTCHAV3": "2026-06-22",
+  "raiyanyahya/recall": "2026-06-22",
+  "sums001/Windows-Copilot-API": "2026-06-22"
 }
