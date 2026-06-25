@@ -1,9 +1,4 @@
 {
-  "rotejin/tomari-guruguru": "2026-06-17",
-  "gykim80/perfectpixel-studio": "2026-06-17",
-  "dongshuyan/compass-skills": "2026-06-17",
-  "Jeidoban/Ironsmith": "2026-06-17",
-  "baskduf/FableCodex": "2026-06-17",
   "vercel/eve": "2026-06-18",
   "Plaer1/junction": "2026-06-18",
   "rebel0789/codexpro": "2026-06-18",
@@ -38,5 +33,10 @@
   "samasante/liquid-glass": "2026-06-24",
   "goehou/tabbit-toy": "2026-06-24",
   "SarkAzia/baiyueguang-learning-skill": "2026-06-24",
-  "BohemiaInteractive/CWR": "2026-06-24"
+  "BohemiaInteractive/CWR": "2026-06-24",
+  "QwenLM/Qwen-AgentWorld": "2026-06-25",
+  "Yu9191/wloc": "2026-06-25",
+  "nova452/ComfyUI-ConditioningKrea2Rebalance": "2026-06-25",
+  "benchflow-ai/awesome-evals": "2026-06-25",
+  "krea-ai/krea-2": "2026-06-25"
 }
