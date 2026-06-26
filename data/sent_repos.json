@@ -1,9 +1,4 @@
 {
-  "vercel/eve": "2026-06-18",
-  "Plaer1/junction": "2026-06-18",
-  "rebel0789/codexpro": "2026-06-18",
-  "Dk9902/ExitLag-Now": "2026-06-18",
-  "fendouai/best-humanizer-handbook": "2026-06-18",
   "ApothecarySeize/Maya-2026-Animation-Workflow": "2026-06-19",
   "boogu-project/Boogu-Image": "2026-06-19",
   "MstKail/polymarket-trading-bot-services-polyedge365": "2026-06-19",
@@ -38,5 +33,10 @@
   "Yu9191/wloc": "2026-06-25",
   "nova452/ComfyUI-ConditioningKrea2Rebalance": "2026-06-25",
   "benchflow-ai/awesome-evals": "2026-06-25",
-  "krea-ai/krea-2": "2026-06-25"
+  "krea-ai/krea-2": "2026-06-25",
+  "PMTraderAdam/pm-adam-trader": "2026-06-26",
+  "aleishawei1983/Seed-Generator": "2026-06-26",
+  "amplifthq/opentag": "2026-06-26",
+  "dama-cyber/Casting-Workflow": "2026-06-26",
+  "J-jaeyoung/bad-epoll": "2026-06-26"
 }
