@@ -1,9 +1,4 @@
 {
-  "withmarbleapp/os-taxonomy": "2026-07-09",
-  "op7418/guizang-material-illustration": "2026-07-09",
-  "nexu-io/motion-anything": "2026-07-09",
-  "jiguang132/storyai-3d-director-desk": "2026-07-09",
-  "Robbyant/lingbot-vla-v2": "2026-07-09",
   "Robbyant/lingbot-world-v2": "2026-07-10",
   "Robbyant/lingbot-video": "2026-07-10",
   "x4gKing/3x-ui-Upgrade": "2026-07-10",
@@ -38,5 +33,10 @@
   "pixel-point/aval": "2026-07-16",
   "CluvexStudio/Aether": "2026-07-16",
   "Fei-Away/Codex-Dream-Skin": "2026-07-16",
-  "MatinSenPai/Aether-GUI": "2026-07-16"
+  "MatinSenPai/Aether-GUI": "2026-07-16",
+  "tandpfun/wardrobe": "2026-07-17",
+  "Blueturboguy07/cue": "2026-07-17",
+  "PengZhang64/circuit-framework": "2026-07-17",
+  "vshulcz/deja-vu": "2026-07-17",
+  "TobiasLee/Rebuttal-Skill": "2026-07-17"
 }
