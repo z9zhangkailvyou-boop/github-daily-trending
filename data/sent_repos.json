@@ -1,9 +1,4 @@
 {
-  "MDX-Tom/gpt-5.6-instruct": "2026-07-14",
-  "littledivy/mimic": "2026-07-14",
-  "x4gKing/Marzban-Panel": "2026-07-14",
-  "x4gKing/Marzban-Node": "2026-07-14",
-  "Kappaemme-git/codex-first-customer-finder-skill": "2026-07-14",
   "opencoredev/domain-sdk": "2026-07-15",
   "WAYLON/ashare-quant-strategies": "2026-07-15",
   "oil-oil/beautify-github-readme": "2026-07-15",
@@ -38,5 +33,10 @@
   "Blaizzy/nativ": "2026-07-21",
   "KinetiNode/claude-fable-5-system-prompt-clean": "2026-07-21",
   "Gheat1/tuistore": "2026-07-21",
-  "chenjin-cmd/xhs-virtual-product": "2026-07-21"
+  "chenjin-cmd/xhs-virtual-product": "2026-07-21",
+  "Vincentwei1021/video-shotcraft": "2026-07-22",
+  "powerycy/goutoujunshi": "2026-07-22",
+  "Kritt-ai/open-kritt": "2026-07-22",
+  "eli-labz/Agent-Execution-Partnership": "2026-07-22",
+  "realfishsam/agent-notch": "2026-07-22"
 }
