@@ -1,9 +1,4 @@
 {
-  "opencoredev/domain-sdk": "2026-07-15",
-  "WAYLON/ashare-quant-strategies": "2026-07-15",
-  "oil-oil/beautify-github-readme": "2026-07-15",
-  "QuantumByteOSS/quantumbyte": "2026-07-15",
-  "BloxHubSSS/Game-Copier": "2026-07-15",
   "xai-org/grok-build": "2026-07-16",
   "pixel-point/aval": "2026-07-16",
   "CluvexStudio/Aether": "2026-07-16",
@@ -38,5 +33,10 @@
   "powerycy/goutoujunshi": "2026-07-22",
   "Kritt-ai/open-kritt": "2026-07-22",
   "eli-labz/Agent-Execution-Partnership": "2026-07-22",
-  "realfishsam/agent-notch": "2026-07-22"
+  "realfishsam/agent-notch": "2026-07-22",
+  "Jakubantalik/thinking-orbs": "2026-07-23",
+  "0xhype/hyperliquid-tracker": "2026-07-23",
+  "pireel/pireel": "2026-07-23",
+  "gnipbao/story-to-handdrawn-video": "2026-07-23",
+  "AdelanSoulX/PM-Sniper": "2026-07-23"
 }
