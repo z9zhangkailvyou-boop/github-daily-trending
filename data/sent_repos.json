@@ -1,9 +1,4 @@
 {
-  "xai-org/grok-build": "2026-07-16",
-  "pixel-point/aval": "2026-07-16",
-  "CluvexStudio/Aether": "2026-07-16",
-  "Fei-Away/Codex-Dream-Skin": "2026-07-16",
-  "MatinSenPai/Aether-GUI": "2026-07-16",
   "tandpfun/wardrobe": "2026-07-17",
   "Blueturboguy07/cue": "2026-07-17",
   "PengZhang64/circuit-framework": "2026-07-17",
@@ -38,5 +33,10 @@
   "0xhype/hyperliquid-tracker": "2026-07-23",
   "pireel/pireel": "2026-07-23",
   "gnipbao/story-to-handdrawn-video": "2026-07-23",
-  "AdelanSoulX/PM-Sniper": "2026-07-23"
+  "AdelanSoulX/PM-Sniper": "2026-07-23",
+  "AdelanSupport/adelan-support": "2026-07-24",
+  "berabuddies/redis-poc": "2026-07-24",
+  "yokel1121/muyang-flat-animation": "2026-07-24",
+  "0xwilliamortiz/andrej-karpathy-skills": "2026-07-24",
+  "risa-labs-inc/BossConsole": "2026-07-24"
 }
