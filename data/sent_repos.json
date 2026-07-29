@@ -1,9 +1,4 @@
 {
-  "paxlabs-inc/machine-genome": "2026-07-21",
-  "Blaizzy/nativ": "2026-07-21",
-  "KinetiNode/claude-fable-5-system-prompt-clean": "2026-07-21",
-  "Gheat1/tuistore": "2026-07-21",
-  "chenjin-cmd/xhs-virtual-product": "2026-07-21",
   "Vincentwei1021/video-shotcraft": "2026-07-22",
   "powerycy/goutoujunshi": "2026-07-22",
   "Kritt-ai/open-kritt": "2026-07-22",
@@ -28,5 +23,10 @@
   "0xwilliamortiz/openclaude-improved": "2026-07-28",
   "rustyharbor308774/Ethereum-bot": "2026-07-28",
   "deerwork-ai/deer-workflow": "2026-07-28",
-  "fuadmefleh/Shared-Claude-Chats": "2026-07-28"
+  "fuadmefleh/Shared-Claude-Chats": "2026-07-28",
+  "0xwilliamortiz/ponytail-improved": "2026-07-29",
+  "wassgha/rescript": "2026-07-29",
+  "achimala/TheLongSilence": "2026-07-29",
+  "dotneet/image-to-3d": "2026-07-29",
+  "dboudreau00/NocTORnal": "2026-07-29"
 }
