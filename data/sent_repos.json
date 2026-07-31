@@ -1,9 +1,4 @@
 {
-  "Jakubantalik/thinking-orbs": "2026-07-23",
-  "0xhype/hyperliquid-tracker": "2026-07-23",
-  "pireel/pireel": "2026-07-23",
-  "gnipbao/story-to-handdrawn-video": "2026-07-23",
-  "AdelanSoulX/PM-Sniper": "2026-07-23",
   "AdelanSupport/adelan-support": "2026-07-24",
   "berabuddies/redis-poc": "2026-07-24",
   "yokel1121/muyang-flat-animation": "2026-07-24",
@@ -28,5 +23,10 @@
   "talivia-group/talivia": "2026-07-30",
   "gavamedia/deltafin": "2026-07-30",
   "PipeNetwork/kimi-k3-mlx": "2026-07-30",
-  "QwenAudio/qwen-audio-agent": "2026-07-30"
+  "QwenAudio/qwen-audio-agent": "2026-07-30",
+  "WilonityXYZ/Wilonity": "2026-07-31",
+  "bashalarmistalt/decimen-optical-transfer": "2026-07-31",
+  "Noniv/snowflow_demo": "2026-07-31",
+  "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer": "2026-07-31",
+  "lij768423-svg/grok-register-panel": "2026-07-31"
 }
