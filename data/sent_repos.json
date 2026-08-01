@@ -1,9 +1,4 @@
 {
-  "AdelanSupport/adelan-support": "2026-07-24",
-  "berabuddies/redis-poc": "2026-07-24",
-  "yokel1121/muyang-flat-animation": "2026-07-24",
-  "0xwilliamortiz/andrej-karpathy-skills": "2026-07-24",
-  "risa-labs-inc/BossConsole": "2026-07-24",
   "mikiarlo3/ai-copywriter": "2026-07-27",
   "mshumer/Claude-of-Duty": "2026-07-27",
   "mikehasa/agentacct": "2026-07-27",
@@ -28,5 +23,10 @@
   "bashalarmistalt/decimen-optical-transfer": "2026-07-31",
   "Noniv/snowflow_demo": "2026-07-31",
   "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer": "2026-07-31",
-  "lij768423-svg/grok-register-panel": "2026-07-31"
+  "lij768423-svg/grok-register-panel": "2026-07-31",
+  "yc-software/qm": "2026-08-01",
+  "WilonityDev/WilonityLoader": "2026-08-01",
+  "0xwilliamortiz/ratchet": "2026-08-01",
+  "Packets/tew": "2026-08-01",
+  "ddoemonn/interior": "2026-08-01"
 }
