@@ -1,9 +1,4 @@
 {
-  "WilonityXYZ/Wilonity": "2026-07-31",
-  "bashalarmistalt/decimen-optical-transfer": "2026-07-31",
-  "Noniv/snowflow_demo": "2026-07-31",
-  "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer": "2026-07-31",
-  "lij768423-svg/grok-register-panel": "2026-07-31",
   "yc-software/qm": "2026-08-01",
   "WilonityDev/WilonityLoader": "2026-08-01",
   "0xwilliamortiz/ratchet": "2026-08-01",
@@ -35,5 +30,10 @@
   "0xwilliamortiz/claude-red": "2026-08-07",
   "fuxicodex/Fuxi": "2026-08-07",
   "criptogus/HermesOffice": "2026-08-07",
-  "SandAI-org/MAGI-2-preview": "2026-08-07"
+  "SandAI-org/MAGI-2-preview": "2026-08-07",
+  "T8mars/comfyui-minimax-h3-audio-T8": "2026-08-08",
+  "xoreaxeaxeax/asm-hall-of-shame": "2026-08-08",
+  "Larryvrh/ComfyUI-MiniMax-H3-Turbo": "2026-08-08",
+  "sowarma/wp2shell-PoC": "2026-08-08",
+  "pengchujin/tower": "2026-08-08"
 }
