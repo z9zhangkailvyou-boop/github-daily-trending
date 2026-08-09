@@ -1,9 +1,4 @@
 {
-  "yc-software/qm": "2026-08-01",
-  "WilonityDev/WilonityLoader": "2026-08-01",
-  "0xwilliamortiz/ratchet": "2026-08-01",
-  "Packets/tew": "2026-08-01",
-  "ddoemonn/interior": "2026-08-01",
   "trycompai/crm": "2026-08-02",
   "deedy/qr-data-transfer": "2026-08-02",
   "s1dashu/animated-voiceover": "2026-08-02",
@@ -35,5 +30,10 @@
   "xoreaxeaxeax/asm-hall-of-shame": "2026-08-08",
   "Larryvrh/ComfyUI-MiniMax-H3-Turbo": "2026-08-08",
   "sowarma/wp2shell-PoC": "2026-08-08",
-  "pengchujin/tower": "2026-08-08"
+  "pengchujin/tower": "2026-08-08",
+  "oil-oil/oil-motion": "2026-08-09",
+  "eternityspring/shuohao-skills": "2026-08-09",
+  "MengTo/kage": "2026-08-09",
+  "ShawnPana/phone-harness": "2026-08-09",
+  "context-labs/i-need-h200s": "2026-08-09"
 }
