@@ -1,9 +1,4 @@
 {
-  "T8mars/comfyui-minimax-h3-audio-T8": "2026-08-08",
-  "xoreaxeaxeax/asm-hall-of-shame": "2026-08-08",
-  "Larryvrh/ComfyUI-MiniMax-H3-Turbo": "2026-08-08",
-  "sowarma/wp2shell-PoC": "2026-08-08",
-  "pengchujin/tower": "2026-08-08",
   "oil-oil/oil-motion": "2026-08-09",
   "eternityspring/shuohao-skills": "2026-08-09",
   "MengTo/kage": "2026-08-09",
@@ -38,5 +33,10 @@
   "awesome-dsh-plugin/awesome-dsh-plugin": "2026-08-15",
   "ccch1mneyyy/dsh-TUI": "2026-08-15",
   "Small-tailqwq/dsh-deep-whale": "2026-08-15",
-  "alchaincyf/deepseek-harness-orange-book": "2026-08-15"
+  "alchaincyf/deepseek-harness-orange-book": "2026-08-15",
+  "xiaobright/dsh-anchored-standard": "2026-08-16",
+  "yjh051108/dsh-routing-suite": "2026-08-16",
+  "NousResearch/Hermes-Bot-Mode": "2026-08-16",
+  "elie222/rakazo": "2026-08-16",
+  "decionis/agent-safe-pipeline": "2026-08-16"
 }
