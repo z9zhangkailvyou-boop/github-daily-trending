@@ -1,9 +1,4 @@
 {
-  "Sateezg/codex-bridge": "2026-08-10",
-  "mewamew/my_ai_town": "2026-08-10",
-  "Appllama/top-welcome-screens": "2026-08-10",
-  "sv-number/mcp-server": "2026-08-10",
-  "NikoDemon80/ComfyUI-H3-Motion-Context": "2026-08-10",
   "SMNETSTUDIO/WeChat-AI": "2026-08-11",
   "antirez/h3.c": "2026-08-11",
   "Kylin010/tcpfit": "2026-08-11",
@@ -38,5 +33,10 @@
   "ZSvirt/zsvirt": "2026-08-17",
   "zouyuxuan122/Deepseek-Harness-EAC": "2026-08-17",
   "SheberDavid/v4-flash-godmode-opencode-go": "2026-08-17",
-  "soloists25wipe/Roblox-Pack-Executor-2026": "2026-08-17"
+  "soloists25wipe/Roblox-Pack-Executor-2026": "2026-08-17",
+  "yetone/cumora": "2026-08-18",
+  "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report": "2026-08-18",
+  "Yousuf-developer/Viscose-carousel": "2026-08-18",
+  "b-nnett/codex-subscription-router": "2026-08-18",
+  "Nervercc/gpt_nerver": "2026-08-18"
 }
