@@ -1,9 +1,4 @@
 {
-  "SMNETSTUDIO/WeChat-AI": "2026-08-11",
-  "antirez/h3.c": "2026-08-11",
-  "Kylin010/tcpfit": "2026-08-11",
-  "SaladDay/pi-from-scratch": "2026-08-11",
-  "JayJokerr/arknights-pixel-autofill": "2026-08-11",
   "sohaibdevv/youtube-music": "2026-08-12",
   "shadcn-ui/chatbot-template": "2026-08-12",
   "gvzdv/claudish-to-english": "2026-08-12",
@@ -38,5 +33,10 @@
   "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report": "2026-08-18",
   "Yousuf-developer/Viscose-carousel": "2026-08-18",
   "b-nnett/codex-subscription-router": "2026-08-18",
-  "Nervercc/gpt_nerver": "2026-08-18"
+  "Nervercc/gpt_nerver": "2026-08-18",
+  "jdshfhds/northcinder": "2026-08-19",
+  "s1dashu/ip-as-logo-skill": "2026-08-19",
+  "browser-use/macos-harness": "2026-08-19",
+  "SigmanticAI/apex-inference-chip": "2026-08-19",
+  "bawadou/ai-data-extractor": "2026-08-19"
 }
