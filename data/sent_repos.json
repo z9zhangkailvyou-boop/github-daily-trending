@@ -1,9 +1,4 @@
 {
-  "guillaumemeyer/watermarks-remover": "2026-08-13",
-  "milind-soni/OpenMausBot": "2026-08-13",
-  "MSNightmare/ShieldBreak": "2026-08-13",
-  "dmmulroy/anti-slop": "2026-08-13",
-  "Hisn00w/ASu-skills": "2026-08-13",
   "deepseek-ai/deepseek-harness": "2026-08-14",
   "xoreaxeaxeax/skitter-creek-bath-salts": "2026-08-14",
   "Leutenegger/book-to-skill": "2026-08-14",
@@ -38,5 +33,10 @@
   "Leutenegger/watermarks-remover": "2026-08-20",
   "wang2122/sprix-sage-router": "2026-08-20",
   "CopilotKit/openbot": "2026-08-20",
-  "DenisSergeevitch/desktop-fly": "2026-08-20"
+  "DenisSergeevitch/desktop-fly": "2026-08-20",
+  "vvxw/deploy-vercel": "2026-08-21",
+  "Leutenegger/vanity-eth": "2026-08-21",
+  "Leutenegger/coldcard-airgap": "2026-08-21",
+  "missuo/herdrm": "2026-08-21",
+  "zyrexdz/cyberleek-leak-research": "2026-08-21"
 }
