@@ -1,9 +1,4 @@
 {
-  "anywhere-labs/deepseek-harness-desktop": "2026-08-15",
-  "awesome-dsh-plugin/awesome-dsh-plugin": "2026-08-15",
-  "ccch1mneyyy/dsh-TUI": "2026-08-15",
-  "Small-tailqwq/dsh-deep-whale": "2026-08-15",
-  "alchaincyf/deepseek-harness-orange-book": "2026-08-15",
   "xiaobright/dsh-anchored-standard": "2026-08-16",
   "yjh051108/dsh-routing-suite": "2026-08-16",
   "NousResearch/Hermes-Bot-Mode": "2026-08-16",
@@ -38,5 +33,10 @@
   "Leutenegger/claudish-to-english": "2026-08-22",
   "lanicer/cve-2026-41940-PoC": "2026-08-22",
   "xdreizein666/getcontact-cli": "2026-08-22",
-  "cclank/lanshu-create-ai-presenter-video": "2026-08-22"
+  "cclank/lanshu-create-ai-presenter-video": "2026-08-22",
+  "LB623/no-negative-echo": "2026-08-23",
+  "adnanakil/nobuzz": "2026-08-23",
+  "MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark": "2026-08-23",
+  "nateherkai/scroll-craft": "2026-08-23",
+  "aj-2-c-2-a/undress-designses": "2026-08-23"
 }
