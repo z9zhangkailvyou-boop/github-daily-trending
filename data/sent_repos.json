@@ -1,9 +1,4 @@
 {
-  "xiaobright/dsh-anchored-standard": "2026-08-16",
-  "yjh051108/dsh-routing-suite": "2026-08-16",
-  "NousResearch/Hermes-Bot-Mode": "2026-08-16",
-  "elie222/rakazo": "2026-08-16",
-  "decionis/agent-safe-pipeline": "2026-08-16",
   "dsh-market/dsh-market": "2026-08-17",
   "ZSvirt/zsvirt": "2026-08-17",
   "zouyuxuan122/Deepseek-Harness-EAC": "2026-08-17",
@@ -38,5 +33,10 @@
   "adnanakil/nobuzz": "2026-08-23",
   "MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark": "2026-08-23",
   "nateherkai/scroll-craft": "2026-08-23",
-  "aj-2-c-2-a/undress-designses": "2026-08-23"
+  "aj-2-c-2-a/undress-designses": "2026-08-23",
+  "duty1g/x64dbg-mcp-server": "2026-08-24",
+  "ShadowAqueduct/watermark-remover": "2026-08-24",
+  "Forsy-AI/biosecurity-agent": "2026-08-24",
+  "localai-org/kimodo.cpp": "2026-08-24",
+  "GamePhanes/GamePhanes": "2026-08-24"
 }
