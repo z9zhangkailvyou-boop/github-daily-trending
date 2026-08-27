@@ -1,9 +1,4 @@
 {
-  "jdshfhds/northcinder": "2026-08-19",
-  "s1dashu/ip-as-logo-skill": "2026-08-19",
-  "browser-use/macos-harness": "2026-08-19",
-  "SigmanticAI/apex-inference-chip": "2026-08-19",
-  "bawadou/ai-data-extractor": "2026-08-19",
   "cinderline/northcinder": "2026-08-20",
   "Leutenegger/watermarks-remover": "2026-08-20",
   "wang2122/sprix-sage-router": "2026-08-20",
@@ -38,5 +33,10 @@
   "RobertGolds1/Gradient": "2026-08-26",
   "fzakaria/selfdb": "2026-08-26",
   "themartiano/try-omarchy": "2026-08-26",
-  "amosblomqvist/learn": "2026-08-26"
+  "amosblomqvist/learn": "2026-08-26",
+  "wide-trace/open-higgsfield": "2026-08-27",
+  "yding-git/personal-edge-proxy": "2026-08-27",
+  "Tencent/WeMM-Embedding": "2026-08-27",
+  "lxf746/outlook-auto-register": "2026-08-27",
+  "oboroge0/hayamimi": "2026-08-27"
 }
