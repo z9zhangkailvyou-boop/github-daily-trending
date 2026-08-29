@@ -1,9 +1,4 @@
 {
-  "vvxw/deploy-vercel": "2026-08-21",
-  "Leutenegger/vanity-eth": "2026-08-21",
-  "Leutenegger/coldcard-airgap": "2026-08-21",
-  "missuo/herdrm": "2026-08-21",
-  "zyrexdz/cyberleek-leak-research": "2026-08-21",
   "MengTo/threeui": "2026-08-22",
   "Leutenegger/claudish-to-english": "2026-08-22",
   "lanicer/cve-2026-41940-PoC": "2026-08-22",
@@ -38,5 +33,10 @@
   "sapientinc/PRAXIST": "2026-08-28",
   "POUND0423/AI-drama-pound": "2026-08-28",
   "s0xDk/refactoring-ui-skill": "2026-08-28",
-  "gtlhuyidan-sketch/life-ipo": "2026-08-28"
+  "gtlhuyidan-sketch/life-ipo": "2026-08-28",
+  "XiaoDuoYa/codex-with-chatgpt": "2026-08-29",
+  "Nanako0129/sepia": "2026-08-29",
+  "crmne/fastpotify": "2026-08-29",
+  "jprx/darwin-vm": "2026-08-29",
+  "MetaMask-AI/metamask-desktop": "2026-08-29"
 }
