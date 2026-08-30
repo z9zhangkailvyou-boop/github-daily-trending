@@ -1,9 +1,4 @@
 {
-  "MengTo/threeui": "2026-08-22",
-  "Leutenegger/claudish-to-english": "2026-08-22",
-  "lanicer/cve-2026-41940-PoC": "2026-08-22",
-  "xdreizein666/getcontact-cli": "2026-08-22",
-  "cclank/lanshu-create-ai-presenter-video": "2026-08-22",
   "LB623/no-negative-echo": "2026-08-23",
   "adnanakil/nobuzz": "2026-08-23",
   "MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark": "2026-08-23",
@@ -38,5 +33,10 @@
   "Nanako0129/sepia": "2026-08-29",
   "crmne/fastpotify": "2026-08-29",
   "jprx/darwin-vm": "2026-08-29",
-  "MetaMask-AI/metamask-desktop": "2026-08-29"
+  "MetaMask-AI/metamask-desktop": "2026-08-29",
+  "tradecatlabs/shulihuazixuecongshu": "2026-08-30",
+  "chrisgreg/boop": "2026-08-30",
+  "OnlyTerp/opengrok": "2026-08-30",
+  "cbrock84/headcount": "2026-08-30",
+  "KKKKhazix/sun-style-writing": "2026-08-30"
 }
