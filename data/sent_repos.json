@@ -1,9 +1,4 @@
 {
-  "duty1g/x64dbg-mcp-server": "2026-08-24",
-  "ShadowAqueduct/watermark-remover": "2026-08-24",
-  "Forsy-AI/biosecurity-agent": "2026-08-24",
-  "localai-org/kimodo.cpp": "2026-08-24",
-  "GamePhanes/GamePhanes": "2026-08-24",
   "b-nnett/grok-bot-0.18-reconstructed": "2026-08-25",
   "tobi/walgit": "2026-08-25",
   "kgoedecke/doop": "2026-08-25",
@@ -38,5 +33,10 @@
   "MSNightmare/HardBreacher": "2026-08-31",
   "Vuk97/forward-implementation-first": "2026-08-31",
   "NIGos/dlss5-dx11-bridge": "2026-08-31",
-  "useagenthq/useagent": "2026-08-31"
+  "useagenthq/useagent": "2026-08-31",
+  "GangTailorUpgrade/CoomeRtool": "2026-09-01",
+  "siknet/FreePEP": "2026-09-01",
+  "Ryze-AI-Adgent/open-seo-mcp-skills": "2026-09-01",
+  "subsy/skill-cabinet": "2026-09-01",
+  "reactor-team/infinite-livestream": "2026-09-01"
 }
