@@ -1,9 +1,4 @@
 {
-  "bryllim/workout-guide": "2026-08-26",
-  "RobertGolds1/Gradient": "2026-08-26",
-  "fzakaria/selfdb": "2026-08-26",
-  "themartiano/try-omarchy": "2026-08-26",
-  "amosblomqvist/learn": "2026-08-26",
   "wide-trace/open-higgsfield": "2026-08-27",
   "yding-git/personal-edge-proxy": "2026-08-27",
   "Tencent/WeMM-Embedding": "2026-08-27",
@@ -38,5 +33,10 @@
   "blendi-remade/interdimensional-game": "2026-09-02",
   "mizorewww/course2md": "2026-09-02",
   "faisalkindi/DLSS5oneclick": "2026-09-02",
-  "tsouth89/omakade": "2026-09-02"
+  "tsouth89/omakade": "2026-09-02",
+  "GangTailorUpgrade/undress-service": "2026-09-03",
+  "anthropics/commerce-agents": "2026-09-03",
+  "shadcn-ui/cn": "2026-09-03",
+  "2akouwu/reverify": "2026-09-03",
+  "yilujian/easy-writing": "2026-09-03"
 }
