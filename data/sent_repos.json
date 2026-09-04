@@ -1,9 +1,4 @@
 {
-  "wide-trace/open-higgsfield": "2026-08-27",
-  "yding-git/personal-edge-proxy": "2026-08-27",
-  "Tencent/WeMM-Embedding": "2026-08-27",
-  "lxf746/outlook-auto-register": "2026-08-27",
-  "oboroge0/hayamimi": "2026-08-27",
   "HEJustinSun/my-girlfriend-jingtian-latex": "2026-08-28",
   "sapientinc/PRAXIST": "2026-08-28",
   "POUND0423/AI-drama-pound": "2026-08-28",
@@ -38,5 +33,10 @@
   "anthropics/commerce-agents": "2026-09-03",
   "shadcn-ui/cn": "2026-09-03",
   "2akouwu/reverify": "2026-09-03",
-  "yilujian/easy-writing": "2026-09-03"
+  "yilujian/easy-writing": "2026-09-03",
+  "lnkiai/m3e-canvas": "2026-09-04",
+  "MSNightmare/FalconFlank": "2026-09-04",
+  "PhiloLabs/fable51-worlds": "2026-09-04",
+  "codejunkie99/fable-orchestrator": "2026-09-04",
+  "dreamers-laboratory/image-to-3d-pipeline": "2026-09-04"
 }
