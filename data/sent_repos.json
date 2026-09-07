@@ -1,9 +1,4 @@
 {
-  "tradecatlabs/shulihuazixuecongshu": "2026-08-30",
-  "chrisgreg/boop": "2026-08-30",
-  "OnlyTerp/opengrok": "2026-08-30",
-  "cbrock84/headcount": "2026-08-30",
-  "KKKKhazix/sun-style-writing": "2026-08-30",
   "jlrouzies-fr/DLSS5-Feeder": "2026-08-31",
   "MSNightmare/HardBreacher": "2026-08-31",
   "Vuk97/forward-implementation-first": "2026-08-31",
@@ -38,5 +33,10 @@
   "Rion-Wu-tech/wechat-intelligence-hub": "2026-09-06",
   "KJGX66F/usque-custom-pro": "2026-09-06",
   "vinzdg/codenotch": "2026-09-06",
-  "pierrenade/short-video-generator-AI": "2026-09-06"
+  "pierrenade/short-video-generator-AI": "2026-09-06",
+  "burakgon/stop-stutter": "2026-09-07",
+  "okf-memory/okf-agent-memory": "2026-09-07",
+  "byJoey/warp-masque-actions": "2026-09-07",
+  "Jarvis322/macos-sysdata": "2026-09-07",
+  "Appllama/liquid-glass-screens": "2026-09-07"
 }
