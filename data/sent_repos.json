@@ -1,9 +1,4 @@
 {
-  "jlrouzies-fr/DLSS5-Feeder": "2026-08-31",
-  "MSNightmare/HardBreacher": "2026-08-31",
-  "Vuk97/forward-implementation-first": "2026-08-31",
-  "NIGos/dlss5-dx11-bridge": "2026-08-31",
-  "useagenthq/useagent": "2026-08-31",
   "GangTailorUpgrade/CoomeRtool": "2026-09-01",
   "siknet/FreePEP": "2026-09-01",
   "Ryze-AI-Adgent/open-seo-mcp-skills": "2026-09-01",
@@ -38,5 +33,10 @@
   "okf-memory/okf-agent-memory": "2026-09-07",
   "byJoey/warp-masque-actions": "2026-09-07",
   "Jarvis322/macos-sysdata": "2026-09-07",
-  "Appllama/liquid-glass-screens": "2026-09-07"
+  "Appllama/liquid-glass-screens": "2026-09-07",
+  "EverettFish/holo-card-studio": "2026-09-08",
+  "yang0/handraw-style": "2026-09-08",
+  "donvito/codex-astra-luna-orchestrator": "2026-09-08",
+  "jtydhr88/screenwriting-skills": "2026-09-08",
+  "34306/vphone-web": "2026-09-08"
 }
