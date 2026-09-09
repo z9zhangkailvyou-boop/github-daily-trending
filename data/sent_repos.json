@@ -1,9 +1,4 @@
 {
-  "GangTailorUpgrade/CoomeRtool": "2026-09-01",
-  "siknet/FreePEP": "2026-09-01",
-  "Ryze-AI-Adgent/open-seo-mcp-skills": "2026-09-01",
-  "subsy/skill-cabinet": "2026-09-01",
-  "reactor-team/infinite-livestream": "2026-09-01",
   "2akouwu/codex-cli-portable-setup-kit": "2026-09-02",
   "blendi-remade/interdimensional-game": "2026-09-02",
   "mizorewww/course2md": "2026-09-02",
@@ -38,5 +33,10 @@
   "yang0/handraw-style": "2026-09-08",
   "donvito/codex-astra-luna-orchestrator": "2026-09-08",
   "jtydhr88/screenwriting-skills": "2026-09-08",
-  "34306/vphone-web": "2026-09-08"
+  "34306/vphone-web": "2026-09-08",
+  "openai/NavierStokesAndEuler": "2026-09-09",
+  "achimala/dream-loop": "2026-09-09",
+  "henryzawadzki6542/cloudflare-turnstile-bypass": "2026-09-09",
+  "gazijarin/itsgiving": "2026-09-09",
+  "Sophomoresty/turnstile-bypass": "2026-09-09"
 }
