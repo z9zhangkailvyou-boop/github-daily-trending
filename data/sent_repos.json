@@ -1,14 +1,4 @@
 {
-  "GangTailorUpgrade/undress-service": "2026-09-03",
-  "anthropics/commerce-agents": "2026-09-03",
-  "shadcn-ui/cn": "2026-09-03",
-  "2akouwu/reverify": "2026-09-03",
-  "yilujian/easy-writing": "2026-09-03",
-  "lnkiai/m3e-canvas": "2026-09-04",
-  "MSNightmare/FalconFlank": "2026-09-04",
-  "PhiloLabs/fable51-worlds": "2026-09-04",
-  "codejunkie99/fable-orchestrator": "2026-09-04",
-  "dreamers-laboratory/image-to-3d-pipeline": "2026-09-04",
   "nahrek/polyledger": "2026-09-05",
   "danielblnc/DLSS-NR-on-AMD": "2026-09-05",
   "Albert-Weasker/niubigeo": "2026-09-05",
@@ -38,5 +28,10 @@
   "com-phantom/Phantom-Wallet-Desktop": "2026-09-10",
   "truanayangi-com/truanayangi": "2026-09-10",
   "lfzk550/fanzha-ai-proxy": "2026-09-10",
-  "yudaprasetya007/routeVSCODE": "2026-09-10"
+  "yudaprasetya007/routeVSCODE": "2026-09-10",
+  "Faizpi/bank-sampah": "2026-09-12",
+  "sumimakito/Mac-Duo": "2026-09-12",
+  "angusdevgo/IDM_Pro_Tool": "2026-09-12",
+  "mizzlelover/gongwen-gbt9704-skill": "2026-09-12",
+  "yureii1996/cek-probe-model": "2026-09-12"
 }
