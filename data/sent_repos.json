@@ -1,9 +1,4 @@
 {
-  "nahrek/polyledger": "2026-09-05",
-  "danielblnc/DLSS-NR-on-AMD": "2026-09-05",
-  "Albert-Weasker/niubigeo": "2026-09-05",
-  "anthropics/fermats-last-theorem": "2026-09-05",
-  "ahujasid/camera-to-blender": "2026-09-05",
   "ashemag/human-atlas": "2026-09-06",
   "Rion-Wu-tech/wechat-intelligence-hub": "2026-09-06",
   "KJGX66F/usque-custom-pro": "2026-09-06",
@@ -33,5 +28,10 @@
   "sumimakito/Mac-Duo": "2026-09-12",
   "angusdevgo/IDM_Pro_Tool": "2026-09-12",
   "mizzlelover/gongwen-gbt9704-skill": "2026-09-12",
-  "yureii1996/cek-probe-model": "2026-09-12"
+  "yureii1996/cek-probe-model": "2026-09-12",
+  "rizqinrr/viserys-agent": "2026-09-13",
+  "nftechie/stonkfly": "2026-09-13",
+  "unstablebuild/rune": "2026-09-13",
+  "eternityspring/reelbench-skills": "2026-09-13",
+  "kevinzakka/mjbatch": "2026-09-13"
 }
