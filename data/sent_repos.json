@@ -1,9 +1,4 @@
 {
-  "rizqinrr/viserys-agent": "2026-09-13",
-  "nftechie/stonkfly": "2026-09-13",
-  "unstablebuild/rune": "2026-09-13",
-  "eternityspring/reelbench-skills": "2026-09-13",
-  "kevinzakka/mjbatch": "2026-09-13",
   "yifanzhang-pro/recurrent-looped-tranformer": "2026-09-14",
   "kruzovic7/ai-data-extractor": "2026-09-14",
   "DefiLeoo/YOINK": "2026-09-14",
@@ -13,5 +8,10 @@
   "NandhaKishorM/laya": "2026-09-20",
   "TianyuCodings/NanoJev": "2026-09-20",
   "jaredpalmer/kev": "2026-09-20",
-  "bespokelabsai/nimble": "2026-09-20"
+  "bespokelabsai/nimble": "2026-09-20",
+  "zai-org/ZCode": "2026-09-21",
+  "mizorewww/laya-mlx": "2026-09-21",
+  "githubnext/localjev": "2026-09-21",
+  "v-modal/awesome-jev-tools": "2026-09-21",
+  "arvindear/wp2shell-PoC": "2026-09-21"
 }
