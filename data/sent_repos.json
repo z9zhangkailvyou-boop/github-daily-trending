@@ -1,9 +1,4 @@
 {
-  "yifanzhang-pro/recurrent-looped-tranformer": "2026-09-14",
-  "kruzovic7/ai-data-extractor": "2026-09-14",
-  "DefiLeoo/YOINK": "2026-09-14",
-  "zjwzcx/Awesome-Astra-Embodied-AI": "2026-09-14",
-  "Chuloo/mural": "2026-09-14",
   "tamaratran/fast-jev-compaction": "2026-09-20",
   "NandhaKishorM/laya": "2026-09-20",
   "TianyuCodings/NanoJev": "2026-09-20",
@@ -13,5 +8,10 @@
   "mizorewww/laya-mlx": "2026-09-21",
   "githubnext/localjev": "2026-09-21",
   "v-modal/awesome-jev-tools": "2026-09-21",
-  "arvindear/wp2shell-PoC": "2026-09-21"
+  "arvindear/wp2shell-PoC": "2026-09-21",
+  "jev-chat/jev-chat-jarvis": "2026-09-22",
+  "mizorewww/laya-coreml": "2026-09-22",
+  "newliver666/apk-reverse": "2026-09-22",
+  "pallavi-shekhar/ai-engineering-interview-questions-company-wise": "2026-09-22",
+  "rmalde/minecraft-agent": "2026-09-22"
 }
