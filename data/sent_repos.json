@@ -1,9 +1,4 @@
 {
-  "tamaratran/fast-jev-compaction": "2026-09-20",
-  "NandhaKishorM/laya": "2026-09-20",
-  "TianyuCodings/NanoJev": "2026-09-20",
-  "jaredpalmer/kev": "2026-09-20",
-  "bespokelabsai/nimble": "2026-09-20",
   "zai-org/ZCode": "2026-09-21",
   "mizorewww/laya-mlx": "2026-09-21",
   "githubnext/localjev": "2026-09-21",
@@ -37,5 +32,10 @@
   "SpecterLouse/CapCut-Pro-macOS-Windows": "2026-09-27",
   "amitshekhariitbhu/ai-system-design": "2026-09-27",
   "feitangyuan/onetake": "2026-09-27",
-  "leter/zh-tech-writing": "2026-09-27"
+  "leter/zh-tech-writing": "2026-09-27",
+  "dzhng/jevgrep": "2026-09-28",
+  "yihui-dev/awesome-opus5-5-videos": "2026-09-28",
+  "lemomo-ai/lemo-opuscar": "2026-09-28",
+  "Rieranthony/product-film-skill": "2026-09-28",
+  "bjarneo/flux": "2026-09-28"
 }
