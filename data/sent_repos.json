@@ -1,9 +1,4 @@
 {
-  "deepopen-com/deepopen": "2026-09-24",
-  "SewCabinSpout/cleanupper": "2026-09-24",
-  "riba2534/claude-opus-5-5-demo": "2026-09-24",
-  "freestylefly/WeChatBridge": "2026-09-24",
-  "kryvora-network/kryvora-node": "2026-09-24",
   "Contrastive-LM/CLM": "2026-09-25",
   "mikehasa/golive-skill": "2026-09-25",
   "JohnHeibel/PDoomVideo": "2026-09-25",
@@ -37,5 +32,10 @@
   "nanaism/yomiyasu": "2026-10-01",
   "OpSafari/hypoarena": "2026-10-01",
   "edenfunf/reelmimic": "2026-10-01",
-  "openai/mcp-extensions": "2026-10-01"
+  "openai/mcp-extensions": "2026-10-01",
+  "CopilotKit/OpenDots": "2026-10-02",
+  "Edwardxlai/easyread": "2026-10-02",
+  "fsiaonma/elpis": "2026-10-02",
+  "deepseek-ai/DeepGEMM-Ascend": "2026-10-02",
+  "composio-community/open-dot": "2026-10-02"
 }
