@@ -1,9 +1,4 @@
 {
-  "ahwootech/BRUTAL": "2026-10-16",
-  "chenglou/handwired": "2026-10-16",
-  "feder-cr/open_scion": "2026-10-16",
-  "outcrawlai/scout": "2026-10-16",
-  "Caho1/open-claude-ui": "2026-10-16",
   "feder-cr/git-ai": "2026-10-17",
   "Supermedo/uncharted_pc": "2026-10-17",
   "0xProbabillity/house-control": "2026-10-17",
@@ -38,5 +33,10 @@
   "colinhacks/reylo": "2026-10-23",
   "oosexgang/hackios-xnu-kernel": "2026-10-23",
   "NVIDIA/flare-local-inference": "2026-10-23",
-  "Snapintosh/Snapintosh": "2026-10-23"
+  "Snapintosh/Snapintosh": "2026-10-23",
+  "wesbos/3d-model-anything": "2026-10-24",
+  "xevrion/hatchzip": "2026-10-24",
+  "Alejandros17487/ai-jailbreaks": "2026-10-24",
+  "assetnote/php2shell-scanner": "2026-10-24",
+  "zita-ch/supermimic_vibed": "2026-10-24"
 }
