@@ -1,9 +1,4 @@
 {
-  "JoasASantos/REA-Prompts": "2026-10-21",
-  "pengchujin/aerial-tv": "2026-10-21",
-  "ELY-Open-Source/ElyOffice": "2026-10-21",
-  "stackedlol/ascii-sharks": "2026-10-21",
-  "VictorTaelin/uniichat": "2026-10-21",
   "ikow/php2shell-poc": "2026-10-22",
   "eagle-hq/EAGLE-4": "2026-10-22",
   "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC": "2026-10-22",
@@ -38,5 +33,10 @@
   "interplains/Zero-Breach-Toolkit": "2026-10-28",
   "anhao/ai-pose-gallery-zh": "2026-10-28",
   "kargulstudio/calender-app-design": "2026-10-28",
-  "ZiChuanLan/agent-purge": "2026-10-28"
+  "ZiChuanLan/agent-purge": "2026-10-28",
+  "Motionsites-AI/claude-skill": "2026-10-29",
+  "yaojingang/GEOInflow": "2026-10-29",
+  "smithjohn78390/tongjiang-lab": "2026-10-29",
+  "blakeandersonw/ai-app-playbook": "2026-10-29",
+  "deepopen-com/deepopen-3d-webs": "2026-10-29"
 }
