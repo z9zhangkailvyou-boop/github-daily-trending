@@ -1,9 +1,4 @@
 {
-  "ikow/php2shell-poc": "2026-10-22",
-  "eagle-hq/EAGLE-4": "2026-10-22",
-  "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC": "2026-10-22",
-  "9bie/php2shell-bypass-aslr-exp": "2026-10-22",
-  "Hugo-Dz/spritefusion-sprite-normals": "2026-10-22",
   "openai/php2shell-checker": "2026-10-23",
   "colinhacks/reylo": "2026-10-23",
   "oosexgang/hackios-xnu-kernel": "2026-10-23",
@@ -38,5 +33,10 @@
   "yaojingang/GEOInflow": "2026-10-29",
   "smithjohn78390/tongjiang-lab": "2026-10-29",
   "blakeandersonw/ai-app-playbook": "2026-10-29",
-  "deepopen-com/deepopen-3d-webs": "2026-10-29"
+  "deepopen-com/deepopen-3d-webs": "2026-10-29",
+  "aschmelyun/print-my-profile-pic": "2026-10-30",
+  "valentderah/totk-pc-recomp": "2026-10-30",
+  "OpenBMB/MiniCPM-OCR": "2026-10-30",
+  "jacke-pp/open-yoki": "2026-10-30",
+  "MiniMax-AI/mcode-stack": "2026-10-30"
 }
