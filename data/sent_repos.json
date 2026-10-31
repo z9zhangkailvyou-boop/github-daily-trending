@@ -1,9 +1,4 @@
 {
-  "openai/php2shell-checker": "2026-10-23",
-  "colinhacks/reylo": "2026-10-23",
-  "oosexgang/hackios-xnu-kernel": "2026-10-23",
-  "NVIDIA/flare-local-inference": "2026-10-23",
-  "Snapintosh/Snapintosh": "2026-10-23",
   "wesbos/3d-model-anything": "2026-10-24",
   "xevrion/hatchzip": "2026-10-24",
   "Alejandros17487/ai-jailbreaks": "2026-10-24",
@@ -38,5 +33,10 @@
   "valentderah/totk-pc-recomp": "2026-10-30",
   "OpenBMB/MiniCPM-OCR": "2026-10-30",
   "jacke-pp/open-yoki": "2026-10-30",
-  "MiniMax-AI/mcode-stack": "2026-10-30"
+  "MiniMax-AI/mcode-stack": "2026-10-30",
+  "wangzan101/Mika": "2026-10-31",
+  "heydamir/unslop": "2026-10-31",
+  "paipiange/nvzhuang": "2026-10-31",
+  "lexifina/global-law": "2026-10-31",
+  "kevinraymond/florilegium": "2026-10-31"
 }
